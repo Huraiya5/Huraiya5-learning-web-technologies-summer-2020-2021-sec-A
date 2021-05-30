@@ -1,0 +1,26 @@
+<products>
+	<product>
+		<Id> 11</Id>
+		<Name> Samsung</Name>
+		<Unit_price> 35000 </Unit_price>
+		<Stoct> 50 </Stoct>
+		<Status> 1 </Status>
+	</product>
+
+	<product>
+		<Id> 20</Id>
+		<Name> HTC</Name>
+		<Unit_price> 65300</Unit_price>
+		<Stoct> 35 </Stoct>
+		<Status> 0 </Status>
+	</product>
+
+	<product>
+		<Id> 23</Id>
+		<Name> Nokia </Name>
+		<Unit_price> 25100 </Unit_price>
+		<Stoct> 100 </Stoct>
+		<Status> 1 </Status>
+	</product>
+	
+</products>
